@@ -17,8 +17,8 @@ $data = [
 			]
 		],
 		'three' => [
-				'priority' => '2',
-		'views' => [
+			'priority' => '2',
+			'views' => [
 				'user_count' => 23,
 				'bot_count' => 1
 			]
